@@ -14,5 +14,13 @@ The agricultural sector has served as the backbone of The Indian economy for cen
   
 </ul>
 
+<h2> Dataset Used: </h2>
+<ul>
+  <li><b>Plant Village Dataset:</b> This dataset consists of 54303 (healthy and unhealthy) leaf images which are further divided into 38 categories by species and diseases. The diseased classes includes various bacterial, fungal and viral diseases in food crops like: tomato, potato, corn, bell-pepper, etc. The images in this dataset are taken under a controlled and sophisticated and environment (i.e. images taken using DSLR/High-quality camera with proper lighting conditions).</li>
+  <li><b>Plantdoc Dataset:</b> This dataset consists 2,598 which are divided across 13 plant species and 27 classes(10-17, healthy-diseased). The diseased classes includes various bacterial, fungal and viral diseases in food crops like: tomato, potato, corn, bell-pepper, apple, etc. Unlike the PlantVillage dataset, this dataset is taken in a more un-controlled and less sophisticated environment with natural light settings (i.e. Images were taken in real-time using mobile phone cameras). The various classes available in the dataset is shown in Figure below</li>
+</ul>
+
+
+
 
 
