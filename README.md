@@ -20,6 +20,12 @@ The agricultural sector has served as the backbone of The Indian economy for cen
   <li><b>Plantdoc Dataset:</b> This dataset consists 2,598 which are divided across 13 plant species and 27 classes(10-17, healthy-diseased). The diseased classes includes various bacterial, fungal and viral diseases in food crops like: tomato, potato, corn, bell-pepper, apple, etc. Unlike the PlantVillage dataset, this dataset is taken in a more un-controlled and less sophisticated environment with natural light settings (i.e. Images were taken in real-time using mobile phone cameras). The various classes available in the dataset is shown in Figure below</li>
 </ul>
 
+<p align="center">
+<img style="display: block; margin: auto;"
+<img width="704" alt="Screenshot 2021-05-31 at 4 37 42 PM" src="https://user-images.githubusercontent.com/57310589/123746295-13fb5380-d8cf-11eb-935c-a47de27e1d08.png">
+</p>![PlantDoc]()
+
+
 
 
 
